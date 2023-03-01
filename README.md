@@ -1,4 +1,4 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harrystaley&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harrystaley&repo=Anki_template)](https://github.com/anuraghazra/github-readme-stats)
 
 This repo is for contributing to improve the materials. If you just want to download the Anki decks, you can find them the [AnkiWeb Shared Decks](https://ankiweb.net/shared/byauthor/1210110765) repository.
 
